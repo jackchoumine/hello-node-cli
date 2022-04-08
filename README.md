@@ -47,3 +47,11 @@
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h12o2ojv1aj20ba038mx6.jpg)
 
 因为发布的第一个版本，是最新版，也是 demo 版本。
+
+发布后移除本地的测试包`npm rm -g hello-node-cli`，让使用`npx`测试是否可用。
+
+`npx hello-node-cli`
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h12oqst10yj20qa0560tb.jpg)
+
+可用，一个 node-cli 开发、发布完成，后续添加其他功能。
