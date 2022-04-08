@@ -37,3 +37,7 @@
 5. 如何移除 link 的 npm?
 
 `npm rm -g pkg-name`
+
+6. 发布一个测试版本
+
+`npm publish --tag demo`
