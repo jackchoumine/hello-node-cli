@@ -1,0 +1,29 @@
+{
+  "name": "hello-node-cli",
+  "version": "1.0.0",
+  "description": "使用 node 编写 cli 工具",
+  "main": "index.js",
+  "bin":{
+    "jack": "index.js"
+  },
+  "files": ["index.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackchoumine/hello-node-cli.git"
+  },
+  "keywords": [
+    "node-cli",
+    "cli-util",
+    "node-command",
+    "cli"
+  ],
+  "author": "jackchoumine <jackzhoumine@gmail.com;jackchou4job@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackchoumine/hello-node-cli/issues"
+  },
+  "homepage": "https://github.com/jackchoumine/hello-node-cli#readme"
+}
