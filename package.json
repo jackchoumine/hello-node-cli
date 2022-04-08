@@ -13,7 +13,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "chalk": "^4.1.2",
+    "clear-any-console": "^1.16.2",
+    "cli-welcome": "^2.2.2"
   },
   "repository": {
     "type": "git",
