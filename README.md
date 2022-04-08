@@ -41,3 +41,9 @@
 6. 发布一个测试版本
 
 `npm publish --tag demo`
+
+发布后查看版本信息：
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h12o2ojv1aj20ba038mx6.jpg)
+
+因为发布的第一个版本，是最新版，也是 demo 版本。
