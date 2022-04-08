@@ -55,3 +55,5 @@
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h12oqst10yj20qa0560tb.jpg)
 
 可用，一个 node-cli 开发、发布完成，后续添加其他功能。
+
+[npm 版本管理最佳实践](https://github.com/canvasT/blog/issues/2)
